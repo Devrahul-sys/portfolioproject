@@ -1,0 +1,26 @@
+1.PROJECT TOPIC
+ my portfolio 
+2. Introduction
+This project is about my portfolio  and it's showes my skills and my  projects details and also this portfolio  is responsive and userfriendly .And in this portfolio i had been included my forntend skills and also i added my CV as well as my github id, instagram id, linkdin id.
+3.Components with description
+.Navbar
+In navbar there is background video and also in left side of nav my name is there  and in right side of nav there os button like about ,skills, contact,project,home.
+.Header
+In the header there is a hero container in that i have given small introduction about me .and there is a button of view resume if we click than it will show my resume and also there is contact button if we click on the contact button it take you to contact slide and also i have added picture also on right side of hero container.
+.Logo container section
+In this section i had added the logoes of my skills like bootstrap, css, html, c++, ptthon. 
+.About me section
+In this section i had been  given my brif introduction about me .
+.Skill section
+In this section i had given the name of skills .
+.Project section
+In the project section i had added all the project which every i had completed.
+.Contact me section 
+In this section you can contact me by my email or contact number.
+.Form section 
+In form section there id button if you click on it than the form will open and than you can fill it.
+.FOOTER
+.Footer section
+In this section i had added  linkdin account twitter account instagram account and github account
+4.Tools and technology
+I had make this project by the using of HTML CSS and JAVASCRIPT.
